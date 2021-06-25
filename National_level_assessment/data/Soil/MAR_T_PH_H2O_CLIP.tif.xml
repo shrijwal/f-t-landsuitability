@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="it"><Esri><CreaDate>20210505</CreaDate><CreaTime>17173000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20210505" Time="171730">ExtractByMask MAR_T_PH_H2O.tif Slope.tif E:\Morocco\GIS\Soil\MAR_T_PH_H2O_CLIP.tif</Process></lineage></DataProperties></Esri></metadata>
